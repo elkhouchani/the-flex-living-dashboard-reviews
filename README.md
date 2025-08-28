@@ -32,36 +32,36 @@ Node.js (v14 or higher)
 npm or yarn package manager
 
 1. Navigate to backend directory
-```
-cd backend
-```
+  ```
+  cd backend
+  ```
 
 2. Install dependencies
-```
-npm install express cors node-fetch
-```
+  ```
+  npm install express cors node-fetch
+  ```
 
 3. Start the server
-```
-node server.js
-```
+  ```
+  node server.js
+  ```
 
 Frontend Setup
 
 1. Navigate to frontend directory
-```
-cd frontend
-```
+  ```
+  cd frontend
+  ```
 
 2. Install dependencies
-```
-npm install react react-dom lucide-react
-```
+  ```
+  npm install react react-dom lucide-react
+  ```
 
 3. Start the development server
-```
-npm start
-```
+  ```
+  npm start
+  ```
 
 ## 📊 Features
 ### Manager Dashboard
