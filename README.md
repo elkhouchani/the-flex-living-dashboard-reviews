@@ -10,7 +10,7 @@ API Integration: Hostaway Reviews API
 Styling: Inline CSS with modern design principles
 Icons: Lucide React
 ### Project Structure
-
+```
 flex-living-reviews-dashboard/
 ├── backend/
 │   ├── server.js           # Main server file
@@ -24,6 +24,7 @@ flex-living-reviews-dashboard/
 │   │   └── index.css       # Base styles
 │   └── package.json        # Frontend dependencies
 └── README.md
+```
 
 ## 🚀 Getting Started
 ### Prerequisites
