@@ -31,34 +31,34 @@ flex-living-reviews-dashboard/
 Node.js (v14 or higher)
 npm or yarn package manager
 
-Navigate to backend directory
+1. Navigate to backend directory
 ```
 cd backend
 ```
 
-Install dependencies
+2. Install dependencies
 ```
 npm install express cors node-fetch
 ```
 
-Start the server
+3. Start the server
 ```
 node server.js
 ```
 
 Frontend Setup
 
-Navigate to frontend directory
+1. Navigate to frontend directory
 ```
 cd frontend
 ```
 
-Install dependencies
+2. Install dependencies
 ```
 npm install react react-dom lucide-react
 ```
 
-Start the development server
+3. Start the development server
 ```
 npm start
 ```
