@@ -156,12 +156,12 @@ Google Reviews integration was explored through the Google Places API. Here are 
 - **Authentication:** Requires Google Cloud Platform setup and billing
 
 ### Potential Implementation:
-javascript// Example Google Places API integration
-```
-const googleReviews = await fetch(
-  `https://maps.googleapis.com/maps/api/place/details/json?place_id=${placeId}&fields=reviews&key=${apiKey}`
-);
-```
+Example Google Places API integration
+  ```
+  const googleReviews = await fetch(
+    `https://maps.googleapis.com/maps/api/place/details/json?place_id=${placeId}&fields=reviews&key=${apiKey}`
+  );
+  ```
 
 ### Recommendation:
 For production implementation, consider:
