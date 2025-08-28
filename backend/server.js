@@ -81,7 +81,7 @@ app.get('/api/reviews', (req, res) => {
 });
 
 // API route specifically for Hostaway (as required)
-app.get('/api/reviews/hostaway', (req, res) => {
+app.get('/api/reviews/hostaway/real', (req, res) => {
   res.json({
     status: 'success',
     data: mockReviews,
